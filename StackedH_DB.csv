@@ -1,0 +1,26 @@
+Item,Category,Result
+Item A,5,Strongly Disagree
+Item A,5,Disagree
+Item A,30,Neutral
+Item A,25,Agree
+Item A,35,Strongly Agree
+Item B,5,Strongly Disagree
+Item B,10,Disagree
+Item B,35,Neutral
+Item B,30,Agree
+Item B,20,Strongly Agree
+Item C,5,Strongly Disagree
+Item C,15,Disagree
+Item C,45,Neutral
+Item C,15,Agree
+Item C,20,Strongly Agree
+Item D,10,Strongly Disagree
+Item D,30,Disagree
+Item D,20,Neutral
+Item D,20,Agree
+Item D,20,Strongly Agree
+Item E,15,Strongly Disagree
+Item E,25,Disagree
+Item E,30,Neutral
+Item E,20,Agree
+Item E,10,Strongly Agree

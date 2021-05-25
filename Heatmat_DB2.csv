@@ -1,0 +1,19 @@
+Customer_name,Product_name,Acceptance
+Customer 1,Product A,0.19
+Customer 2,Product A,0.44
+Customer 3,Product A,0.38
+Customer 4,Product A,0.31
+Customer 5,Product A,0.58
+Customer 6,Product A,0.16
+Customer 1,Product B,0.26
+Customer 2,Product B,0.40
+Customer 3,Product B,0.21
+Customer 4,Product B,0.32
+Customer 5,Product B,0.31
+Customer 6,Product B,0.29
+Customer 1,Product C,0.43
+Customer 2,Product C,0.21
+Customer 3,Product C,0.36
+Customer 4,Product C,0.31
+Customer 5,Product C,0.59
+Customer 6,Product C,0.50
